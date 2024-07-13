@@ -1,0 +1,23 @@
+#
+# This file contains information about the style.
+# It is completely optional.
+# 
+
+# A short one line description of the style
+#
+summary: Style for eTrex10 -Bike routs, Cities, Villages, Suburbs as points.
+
+# Version of the style itself
+#
+version=0.1
+
+#base-style=contours_ft
+#base-style=location
+#base-style=landuse
+#base-style=waters
+
+# A longer description of the style.
+description {
+Style ist fuer die Nutzung auf dem Schwarz/Weiss Display des eTrex10
+optimiert. Es werden Städte, Dörfer und Stadtteile als Punkte dargestellt. Fahrradrouten ( bald ) als Linien.
+}

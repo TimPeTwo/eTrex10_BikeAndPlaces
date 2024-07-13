@@ -12,7 +12,6 @@ export-osm von https://overpass-turbo.eu/
 /*
 This shows the cycleway and cycleroute network.
 */
-[out:json];
 (
  // query part for: “cycleway=*”
   // sharrow 
